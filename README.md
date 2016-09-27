@@ -1,0 +1,2 @@
+# Vigenere-Cipher-Encrypt-Decrypt-Attack-
+Students were tasked with programming the Vigenere Cipher to encrypt and decrypt a message based on a key given by a user. In addition to that, students were tasked with programming an attack on the encrypted files of the Vigenere Cipher using knowledge of how index of coincidence values work. This program was written by Minh Doan and Jamal D. Scott for Dr. Barry Wittman, Computer Security.
